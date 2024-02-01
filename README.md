@@ -36,9 +36,13 @@ class HouseOfSunny {
 }
 ```
 
+
 ## Tech Stack
+<img align="right" alt="GIF" src="https://media.giphy.com/media/104kJfkqyM4B1e/giphy.gif?cid=ecf05e47xodgczwdbqy8d062s2h715nbe5obxl1idxqvn2m1&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="308" height="218" />
+
 <p>
   <img title="Javascript" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30" height="30" />&nbsp;
+  <img title="Typescript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="30" height="30" />&nbsp;
   <img title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" width="30" height="30" />&nbsp;
   <img title="Vue" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png" width="30" height="30" />&nbsp;
   <img title="CSS" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="30" height="30" />&nbsp;
@@ -50,9 +54,13 @@ class HouseOfSunny {
   <img title="SQL" src="https://c8.alamy.com/comp/R5MRKR/sql-database-icon-logo-design-ui-or-ux-app-R5MRKR.jpg" width="30" height="30" />&nbsp;
 </p>
 
+
 ## Connect
 - Feel free to shoot me an email @ letranthitu@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/tle-sunny/)
 - [Portfolio](https://sunny-le-portfolio.vercel.app/)
 - [Resume](https://sunny-le-portfolio.vercel.app/assets/resume-6f485af1.pdf)
 
+
+## Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
